@@ -6,7 +6,7 @@
 
 ---
 I am planning to make a computer vision software that detects objects in images. 
-Inorder to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) 
+Inorder to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow)  
 or [PyTorch](https://github.com/pytorch/pytorch), and other opensource softwares.
 
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection)
