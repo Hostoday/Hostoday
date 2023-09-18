@@ -5,9 +5,7 @@
 ### Proposal (Level 3 Heading)
 
 ---
-I am planning to make a computer vision software that detects objects in images.  
-Inorder to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow)  
-or [PyTorch](https://github.com/pytorch/pytorch), and other opensource softwares.
+I am planning to make a computer vision software that detects objects in images.Inorder to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) or [PyTorch](https://github.com/pytorch/pytorch), and other opensource softwares.
 
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
@@ -24,8 +22,7 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ### Installation
 
-In a bash terminal, run the following commands(Do *NOT* actually run these commands in  
-your computer):
+In a bash terminal, run the following commands(Do *NOT* actually run these commands in your computer):
 ```sh
 $ sudo apt update
 $ conda create -n cv_detection
