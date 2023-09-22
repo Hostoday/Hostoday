@@ -14,7 +14,7 @@
     - /[directory name] : absolute path
     - ./[directory name] : relative path
     - ../[directory name] : relative path
-- #### ls : list files and directories
+- ### ls : list files and directories
   - #### Option
     - -l : show detailed information(long format)
     - -lh : same as above, but size in units
@@ -42,9 +42,12 @@
       +----------------------------------------------   File Permissions
       Source : https://linuxcommand.org/lc3_lts0030.php
       ```
-- #### clear : claer the terminal window
+- ### clear : claer the terminal window
+- **Tip**
+  - Autocompletion : press "tab" key
+  - Past commands : press "up arrow" key
 
-### Manipulation
+## Manipulation
 - cp
 - mv
 - rm
