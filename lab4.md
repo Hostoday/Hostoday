@@ -6,14 +6,14 @@
 - ### pwd : shows the current path in a hierarchical directory
 - ### cd : change directory
   - #### Argument
-    - directory name
+    - [directory name]
     - / : root
     - . : current directory
     - .. : upper-level directory
     - ~ : home of current user
-    - /directory name : absolute path
-    - ./directory name : relative path
-    - ../directory name : relative path
+    - /[directory name] : absolute path
+    - ./[directory name] : relative path
+    - ../[directory name] : relative path
 - ### ls : list files and directories
   - #### Option
     - -l : Show detailed information(long format)
@@ -47,6 +47,8 @@
   - Autocompletion : Press "tab" key
   - Past commands : Press "up arrow" key
 
+---
+
 ## Manipulation
 - ### cp : copy files and directories
   - #### Command
@@ -63,7 +65,7 @@
     - mv -i file1 file2	: Like above however, since the "-i" (interactive) option is specified, if file2 exists, the user is prompted before it is overwritten with the contents of file1.
     - mv file1 file2 dir1	: The files file1 and file2 are moved to directory dir1. If dir1 does not exist, mv will exit with an error.
     - mv dir1 dir2 : If dir2 does not exist, then dir1 is renamed dir2. If dir2 exists, the directory dir1 is moved within directory dir2.
-- ### rm : delete files and directories permantely and irreversevely <span style = 'background-color:#ffdce0'>(Be careful when you are using this command)</span>
+- ### rm : delete files and directories permantely and irreversevely <span style = "background-color:#ffdce0"> (Be careful when you are using this command) </span>
   - #### Command
     - rm file1 file2 : Delete file1 and file2.
     - rm -i file1 file2	: Like above however, since the "-i" (interactive) option is specified, the user is prompted before each file is deleted.
