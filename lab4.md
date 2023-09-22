@@ -6,14 +6,14 @@
 - ### pwd : shows the current path in a hierarchical directory
 - ### cd : change directory
   - #### Argument
-    - [directory name]
+    - directory name
     - / : root
     - . : current directory
     - .. : upper-level directory
     - ~ : home of current user
-    - /[directory name] : absolute path
-    - ./[directory name] : relative path
-    - ../[directory name] : relative path
+    - /directory name : absolute path
+    - ./directory name : relative path
+    - ../directory name : relative path
 - ### ls : list files and directories
   - #### Option
     - -l : Show detailed information(long format)
