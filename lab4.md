@@ -3,6 +3,9 @@
 ***Note*** : this Document is note about git shell command
 
 ## Shell command List
+
+---
+
 - ### pwd : shows the current path in a hierarchical directory
 - ### cd : change directory
   - #### Argument
@@ -47,9 +50,11 @@
   - Autocompletion : Press "tab" key
   - Past commands : Press "up arrow" key
 
----
 
 ## Manipulation
+
+---
+
 - ### cp : copy files and directories
   - #### Command
     - cp file1 file2 : Copies the contents of file1 into file2. If file2 does not exist, it is created;
