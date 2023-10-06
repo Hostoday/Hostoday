@@ -4,7 +4,7 @@
 
 ## Version and Collaboration
 - ### Local
-  ![file local](https://velog.velcdn.com/images%2Fjhjeong00%2Fpost%2F488020b6-af3b-4f4c-b048-cc4fff0b4240%2FScreen%20Shot%202021-12-16%20at%203.09.30%20AM.png)
+  ![file local](https://velog.velcdn.com/images%2Fjhjeong00%2Fpost%2F488020b6-af3b-4f4c-b048-cc4fff0b4240%2FScreen%20Shot%202021-12-16%20at%203.09.30%20AM.png){:width="20"}
 - ### Centralized
   ![file centralized](https://velog.velcdn.com/images%2Fjhjeong00%2Fpost%2F7dbe16d6-3efd-4b27-b1d8-a306e245fab1%2FScreen%20Shot%202021-12-16%20at%203.12.21%20AM.png)
 - ### Distributed
